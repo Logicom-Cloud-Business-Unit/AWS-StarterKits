@@ -308,3 +308,7 @@ When you are done with the environment, you can destroy the resources to avoid i
 - **Testing Configuration**: Use sandbox or test environments to validate the setup before deploying in production.
 
 This README.md provides everything a user needs to understand, configure, and deploy the infrastructure securely and efficiently.
+
+## Disclaimer
+This repository provides a starter template and should not be used as-is in production. Customize all configurations (especially IAM, networking, and security) to meet your compliance, performance, and security requirements.
+
